@@ -1,5 +1,4 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Response>
-  <Say voice="alice">Thanks for trying our documentation. Enjoy!</Say>
-  <Play>https://demo.twilio.com/docs/classic.mp3</Play>
+  <Say language="ja_jp" voice="alice">ひろのぶさんのボタンが押されました。緊急事態です。</Say>
 </Response>
