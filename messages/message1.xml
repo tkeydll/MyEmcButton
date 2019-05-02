@@ -1,4 +1,4 @@
 <Response>
-    <Say voice="alice">緊急事態です。たすけて。</Say>
+    <Say language="ja-jp">緊急事態です。たすけてー。</Say>
     <Play>http://demo.twilio.com/docs/classic.mp3</Play>
 </Response>
