@@ -1,4 +1,4 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Response>
-  <Say language="ja_jp" voice="alice">この番号は着信を受け付けていません。</Say>
+  <Say language="ja-jp" voice="alice">この電話番号は、着信を受け付けておりません。</Say>
 </Response>
