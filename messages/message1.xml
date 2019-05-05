@@ -1,4 +1,4 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Response>
-  <Say language="ja-jp" voice="alice">ひろのぶさんのボタンが押されました。緊急事態です。</Say>
+  <Say language="ja-jp" voice="alice">〇〇さんのボタンが押されました。緊急事態です。</Say>
 </Response>
