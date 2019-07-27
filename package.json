@@ -1,0 +1,19 @@
+{
+  "name": "myemcbutton",
+  "version": "1.0.0",
+  "description": "Emergency call by SORACOM LTE-M button.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tkeydll/MyEmcButton.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tkeydll/MyEmcButton/issues"
+  },
+  "homepage": "https://github.com/tkeydll/MyEmcButton#readme"
+}
